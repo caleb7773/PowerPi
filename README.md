@@ -2,7 +2,7 @@
 
 Current GPIO Pinout
 
-
+ 
 — — —
 Relay 8            GPIO 5
 — — — 
