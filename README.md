@@ -1,6 +1,6 @@
 # PowerPi
 
-Current GPIO Pinout
+## Current GPIO Pinout
 
  
 — — —
